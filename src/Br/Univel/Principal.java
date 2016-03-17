@@ -12,6 +12,6 @@ public class Principal {
 		
 		System.out.println("hello world");
 		System.out.println("it's we");
-		
+		System.out.println("teste");
 	}
 }
