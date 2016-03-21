@@ -25,5 +25,5 @@ public class Principal {
 			d.desenhar();
 		}
 	}
-	
+	// teste java
 }
