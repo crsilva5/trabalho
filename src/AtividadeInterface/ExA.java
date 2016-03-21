@@ -29,7 +29,7 @@ public class ExA extends DesenhoAbstrato{
 		
 	}
 
-
+// primeiro exercicio criar em java
 	
 
 }
