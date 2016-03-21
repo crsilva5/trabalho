@@ -15,3 +15,4 @@ public abstract class DesenhoAbstrato implements Desenho {
 	
 	//public abstract void Desenhar(); 
 }
+//teste java
