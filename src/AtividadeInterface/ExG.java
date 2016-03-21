@@ -34,5 +34,5 @@ public class ExG extends DesenhoAbstrato{
 
 
 	
-
+	// teste java
 }
