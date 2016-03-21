@@ -32,7 +32,5 @@ public class ExG extends DesenhoAbstrato{
 		
 	}
 
-
-	
-	// teste java
+	// EX:G
 }
