@@ -32,5 +32,5 @@ public class ExN extends DesenhoAbstrato{
 		
 	}
 
-
+	// teste java
 }
