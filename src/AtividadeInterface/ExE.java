@@ -33,4 +33,5 @@ public class ExE extends DesenhoAbstrato{
 
 	
 
+	// primeiro exercicio criar em java
 }
