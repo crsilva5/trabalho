@@ -32,6 +32,6 @@ public class ExL extends DesenhoAbstrato{
 		
 	}
 
-	// teste java
+	// EX:L
 	
 }
