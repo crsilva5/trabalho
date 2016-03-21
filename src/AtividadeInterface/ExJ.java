@@ -33,7 +33,7 @@ public class ExJ extends DesenhoAbstrato{
 	}
 
 
-	
+	// teste java
 
 }
 // operador ternario 
