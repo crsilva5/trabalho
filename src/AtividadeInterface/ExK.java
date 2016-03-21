@@ -35,6 +35,6 @@ public class ExK extends DesenhoAbstrato{
 	}
 
 
-
+	// teste java
 }
 // operador ternario 
