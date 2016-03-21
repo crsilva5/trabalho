@@ -30,6 +30,6 @@ public class ExB extends DesenhoAbstrato {
 
 	
 
-		// segundo exercicio criar em java		
+		// // EX:B	
 
 	}
