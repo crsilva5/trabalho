@@ -31,7 +31,5 @@ public class ExF extends DesenhoAbstrato{
 		
 	}
 
-
-	// teste java
-
+	// EX:F
 }
